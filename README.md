@@ -1,21 +1,27 @@
-# Power BI Business Case – Term Deposit Campaign Analysis
+# Customer Analytics Dashboard (Power BI)
 
-## Objective
-Analyze a bank marketing campaign to identify customer segments most likely to convert to term deposits and uncover opportunities to improve campaign efficiency.
+## Overview
+This project demonstrates my ability to design and deliver interactive dashboards for business decision-making using Power BI.
 
-## Dataset
-Bank Marketing Dataset (Kaggle) – Train.csv
+## Objectives
+- Analyze customer behavior and campaign performance
+- Identify trends and key performance indicators
+- Support data-driven decision-making
 
-## Key Focus Areas
-- Conversion performance by customer demographics
-- Impact of contact strategy on conversion success
-- Identification of high-value and low-efficiency segments
-- Actionable recommendations for campaign optimization
+## Tools & Technologies
+- Power BI
+- Excel
+- Data Modeling
+- DAX
 
-## Deliverables
-- Power BI dashboard (.pbix)
-- PDF export of dashboard for executive review
+## Key Features
+- Interactive dashboard with KPIs and filters
+- Customer segmentation analysis
+- Campaign performance insights
+
+## Business Impact
+- Enabled data-driven marketing decisions
+- Improved visibility into customer trends
 
 ## Notes
-Data was reviewed for consistency, missing values, and categorical integrity prior to analysis.  
-Design choices emphasize executive storytelling, clarity, and intentional use of color.
+Data used in this project is for demonstration purposes.
